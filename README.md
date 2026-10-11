@@ -129,6 +129,6 @@ This repository is continuously updated as I learn new technologies and build pr
 
 ## Author
 
-**Mohammed Kasim**
+**TheRedRing**
 
-RHCSA Certified | Python Automation | AWS & Cloud Security Enthusiast
+RHCSA Certified | Python Automation 
