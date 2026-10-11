@@ -1,8 +1,8 @@
 # Security Automation Projects
 
-A collection of Python-based security automation projects developed to strengthen practical skills in cybersecurity, Linux administration, cloud security, and automation engineering.
+A collection of Python-based security automation projects developed to strengthen practical skills in cybersecurity, Linux administration and automation engineering.
 
-This repository serves as a portfolio of hands-on projects that automate real-world security tasks, system monitoring, log analysis, and cloud security operations.
+This repository serves as a portfolio of hands-on projects that automate real-world security tasks, system monitoring, log analysis, and security operations.
 
 ---
 
@@ -36,14 +36,6 @@ This repository serves as a portfolio of hands-on projects that automate real-wo
 * Security Monitoring
 * Security Reporting
 
-### Cloud & DevOps *(Upcoming)*
-
-* AWS
-* Boto3
-* IAM
-* EC2
-* S3
-* Cloud Security Automation
 
 ---
 
@@ -80,10 +72,6 @@ A Python-based security automation tool that analyzes SSH authentication logs, d
 ## 🚧 Upcoming Projects
 
 * Linux Health Checker
-* EC2 Inventory Tool
-* AWS Security Auditor
-* IAM User Auditor
-* S3 Bucket Security Checker
 
 ---
 
@@ -95,14 +83,6 @@ Security-Automation-Projects/
 ├── ssh_access_failed_login_analyzer/
 │
 ├── linux_health_checker/
-│
-├── ec2_inventory_tool/
-│
-├── aws_security_auditor/
-│
-├── iam_user_auditor/
-│
-├── s3_bucket_security_checker/
 │
 └── README.md
 ```
@@ -117,7 +97,6 @@ Security-Automation-Projects/
 * Linux Administration
 * Report Generation
 * Security Engineering Fundamentals
-* Cloud Security Fundamentals *(Upcoming)*
 
 ---
 
@@ -139,14 +118,12 @@ Security-Automation-Projects/
 
 * ⏳ Subprocess Module
 * ⏳ Linux Automation
-* ⏳ Boto3
-* ⏳ AWS Security Automation
 
 ---
 
 ## About This Repository
 
-This repository is continuously updated as I learn new technologies and build practical security automation projects. Each project focuses on solving a real-world security or system administration problem while improving Python programming and cloud security skills.
+This repository is continuously updated as I learn new technologies and build practical security automation projects. Each project focuses on solving a real-world security or system administration problem while improving Python programming and security automation skills.
 
 ---
 
